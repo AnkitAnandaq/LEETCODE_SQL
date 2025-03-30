@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/0196-delete-duplicate-emails) |
 | [1827-invalid-tweets](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/1892-find-total-time-spent-by-each-employee) |
