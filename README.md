@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/0584-find-customer-referee) |
 | [1153-product-sales-analysis-i](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/1153-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/1179-game-play-analysis-i) |
+| [1523-capital-gainloss](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/1523-capital-gainloss) |
 | [1827-invalid-tweets](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/1892-find-total-time-spent-by-each-employee) |
