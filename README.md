@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/1948-rearrange-products-table) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
