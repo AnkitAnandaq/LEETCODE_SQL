@@ -31,8 +31,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Two Pointers
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+## Matrix
+|  |
+| ------- |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AnkitAnandaq/LEETCODE_SQL/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 <!---LeetCode Topics End-->
